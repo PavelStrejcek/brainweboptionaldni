@@ -31,7 +31,7 @@ Installation
 
 4. Create ZIP archive again.
 
-5. Use standard inslallation way as described in [PrestaShop How-To][2]. 
+5. Use standard installation way as described in [PrestaShop How-To][2]. 
 
 
 License
