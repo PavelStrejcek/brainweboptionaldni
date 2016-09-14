@@ -23,18 +23,25 @@ PHP 5.3.3+ (lower versions are not tested)
 Installation
 --------
 
-Clicking the "Download ZIP" button from the root of this repository will download the module archive.
+1. Clicking the "Download ZIP" button from the root of this repository will download the module archive.
 
-Use standard inslallation way as described in [PrestaShop How-To][2]. 
+2. Unzip archive.
+
+3. Rename folder from "brainweboptionaldni-master" to "brainweboptionaldni".
+
+4. Create ZIP archive again.
+
+5. Use standard inslallation way as described in [PrestaShop How-To][2]. 
 
 
 License
 --------
 
-This module is free under license Open Software License v. 3.0 (OSL-3.0).
+This module is free under license [Open Software License v. 3.0][3] (OSL-3.0).
 
-Author: Pavel Strejček, [BrainWeb.cz][1]
+Author: Pavel Strejček, [BrainWeb.cz][1], 2016
 
 
 [1]: http://www.brainweb.cz/
 [2]: http://addons.prestashop.com/en/content/21-how-to
+[3]: https://opensource.org/licenses/OSL-3.0
