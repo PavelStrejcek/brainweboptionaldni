@@ -30,7 +30,7 @@ class BrainWebOptionalDni extends Module
         $this->version = '1.0.0';
         $this->author = 'Pavel Strejček [BrainWeb.cz]';
         $this->need_instance = 1;
-        $this->ps_versions_compliancy = array('min' => '1.6.1.5', 'max' => '1.6.1.7');
+        $this->ps_versions_compliancy = array('min' => '1.6.1.5', 'max' => '1.6.1.8');
         $this->bootstrap = true;
 
         parent::__construct();
