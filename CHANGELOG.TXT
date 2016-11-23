@@ -1,0 +1,2 @@
+2016-11-23 v1.0.2 hided asterisk from invoice_dni field by CSS
+2016-11-01 v1.0.1 PrestaShop version 1.6.1.8

@@ -1,1 +1,1 @@
-div.dni label sup {display: none}
+div.dni label sup, div.dni_invoice label sup {display: none}
