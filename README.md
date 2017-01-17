@@ -15,7 +15,7 @@ Asterisk next to the field is removed using CSS. It may be necessary to fine-tun
 Requirements
 --------
 
-PrestaShop 1.6.1.5-10
+PrestaShop 1.6.1.5-11
  
 PHP 5.3.3+ (lower versions are not tested)
 
@@ -23,7 +23,7 @@ PHP 5.3.3+ (lower versions are not tested)
 Installation
 --------
 
-1. Clicking the "Download ZIP" button from the root of this repository will download the module archive.
+1. Clicking the "Download ZIP" button from the root of Gitlab repository will download the module archive.
 
 2. Unzip archive.
 
@@ -39,7 +39,7 @@ License
 
 This module is free under license [Open Software License v. 3.0][3] (OSL-3.0).
 
-Author: Pavel Strejček, [BrainWeb.cz][1], 2016
+Author: Pavel Strejček, [BrainWeb.cz][1], 2016-2017
 
 
 [1]: http://www.brainweb.cz/
