@@ -23,12 +23,14 @@
  *  @copyright  2017 Pavel Strejček
  *  @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  */
-require_once dirname(__FILE__) . '/../Overriding.php';
-require_once dirname(__FILE__) . '/../Helper.php';
-
 if (!defined('_PS_VERSION_')) {
 	exit;
 }
+
+$moduleDir = realpath(dirname(__FILE__) . '/../');
+
+require_once $moduleDir . '/Overriding.php';
+require_once $moduleDir . '/Helper.php';
 
 /**
  * This function updates your module from previous versions to the version 1.1,
