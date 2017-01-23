@@ -15,8 +15,8 @@ Asterisk next to the field is removed using CSS. It may be necessary to fine-tun
 Requirements
 --------
 
-PrestaShop 1.6.1.5-11
- 
+PrestaShop 1.6.1.4-11
+
 PHP 5.3.3+ (lower versions are not tested)
 
 
@@ -31,7 +31,7 @@ Installation
 
 4. Create ZIP archive again.
 
-5. Use standard installation way as described in [PrestaShop How-To][2]. 
+5. Use standard installation way as described in [PrestaShop How-To][2].
 
 
 License

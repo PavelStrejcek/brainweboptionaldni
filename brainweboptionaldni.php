@@ -15,6 +15,8 @@
  *  @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  */
 
+define('BRAINWEBOPTIONALDNIDIR', dirname(__FILE__) . '/');
+
 require_once dirname(__FILE__) . '/Helper.php';
 require_once dirname(__FILE__) . '/Overriding.php';
 
@@ -28,10 +30,10 @@ class BrainWebOptionalDni extends Module
 	{
 		$this->name = 'brainweboptionaldni';
 		$this->tab = 'others';
-		$this->version = '1.0.4';
+		$this->version = '1.0.5';
 		$this->author = 'Pavel Strejček [BrainWeb.cz]';
 		$this->need_instance = 1;
-		$this->ps_versions_compliancy = array('min' => '1.6.1.5', 'max' => '1.6.1.11');
+		$this->ps_versions_compliancy = array('min' => '1.6.1.4', 'max' => '1.6.1.11');
 		$this->bootstrap = true;
 
 		parent::__construct();
