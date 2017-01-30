@@ -15,7 +15,7 @@ Asterisk next to the field is removed using CSS. It may be necessary to fine-tun
 Requirements
 --------
 
-PrestaShop 1.6.1.4-11
+PrestaShop from 1.6.1.2 to 1.6.1.11
 
 PHP 5.3.3+ (lower versions are not tested)
 
@@ -23,7 +23,7 @@ PHP 5.3.3+ (lower versions are not tested)
 Installation
 --------
 
-1. Clicking the "Download ZIP" button from the root of Gitlab repository will download the module archive.
+1. Clicking the "Download ZIP" button from the root of [Github repository][4] will download the module archive.
 
 2. Unzip archive.
 
@@ -45,3 +45,4 @@ Author: Pavel Strejček, [BrainWeb.cz][1], 2016-2017
 [1]: http://www.brainweb.cz/
 [2]: http://addons.prestashop.com/en/content/21-how-to
 [3]: https://opensource.org/licenses/OSL-3.0
+[4]: https://github.com/PavelStrejcek/brainweboptionaldni
