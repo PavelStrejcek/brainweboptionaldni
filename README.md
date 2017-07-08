@@ -15,7 +15,7 @@ Asterisk next to the field is removed using CSS. It may be necessary to fine-tun
 Requirements
 --------
 
-PrestaShop from 1.6.1.2 to 1.6.1.13
+PrestaShop from 1.6.1.2 to 1.6.1.15
 
 PHP 5.3.3+ (lower versions are not tested)
 
