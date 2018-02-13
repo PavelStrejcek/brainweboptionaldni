@@ -20,7 +20,7 @@
  * needs please refer to http://www.prestashop.com for more information.
  *
  *  @author Pavel Strejček <pavel.strejcek@brainweb.cz>
- *  @copyright  2017 Pavel Strejček
+ *  @copyright  2016-2018 Pavel Strejček
  *  @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  */
 if (!defined('BRAINWEBOPTIONALDNIDIR')) {

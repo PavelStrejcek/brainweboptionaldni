@@ -11,7 +11,7 @@
  * http://opensource.org/licenses/osl-3.0.php
  *
  *  @author Pavel Strejček <pavel.strejcek@brainweb.cz>
- *  @copyright  2016-2017 Pavel Strejček
+ *  @copyright  2016-2018 Pavel Strejček
  *  @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  */
 
@@ -30,10 +30,10 @@ class BrainWebOptionalDni extends Module
 	{
 		$this->name = 'brainweboptionaldni';
 		$this->tab = 'others';
-		$this->version = '1.0.11';
+		$this->version = '1.0.12';
 		$this->author = 'Pavel Strejček [BrainWeb.cz]';
 		$this->need_instance = 1;
-		$this->ps_versions_compliancy = array('min' => '1.6.1.2', 'max' => '1.6.1.17');
+		$this->ps_versions_compliancy = array('min' => '1.6.1.2', 'max' => '1.6.1.18');
 		$this->bootstrap = true;
 
 		parent::__construct();
