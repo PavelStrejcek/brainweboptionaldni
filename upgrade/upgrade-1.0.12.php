@@ -1,7 +1,7 @@
 <?php
 
 /**
- * 2007-2015 PrestaShop
+ * 2016-2018 Pavel Strejček
  *
  * NOTICE OF LICENSE
  *

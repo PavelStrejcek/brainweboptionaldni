@@ -1,7 +1,7 @@
 <?php
 
 /*
- * 2016 Pavel Strejček
+ * 2016-2018 Pavel Strejček
  *
  * NOTICE OF LICENSE
  *
@@ -30,10 +30,10 @@ class BrainWebOptionalDni extends Module
 	{
 		$this->name = 'brainweboptionaldni';
 		$this->tab = 'others';
-		$this->version = '1.0.13';
+		$this->version = '1.0.14';
 		$this->author = 'Pavel Strejček [BrainWeb.cz]';
 		$this->need_instance = 1;
-		$this->ps_versions_compliancy = array('min' => '1.6.1.2', 'max' => '1.6.1.19');
+		$this->ps_versions_compliancy = array('min' => '1.6.1.2', 'max' => '1.6.1.20');
 		$this->bootstrap = true;
 
 		parent::__construct();

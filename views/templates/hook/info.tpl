@@ -1,5 +1,5 @@
 {*
-* 2016 Pavel Strejček
+* 2016-2018 Pavel Strejček
 *
 * NOTICE OF LICENSE
 *

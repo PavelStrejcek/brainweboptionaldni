@@ -15,7 +15,7 @@ Asterisk next to the field is removed using CSS. It may be necessary to fine-tun
 Requirements
 --------
 
-PrestaShop from 1.6.1.2 to 1.6.1.19
+PrestaShop from 1.6.1.2 to 1.6.1.20
 
 PHP 5.3.3+ (lower versions are not tested)
 
@@ -39,7 +39,7 @@ License
 
 This module is free under license [Open Software License v. 3.0][3] (OSL-3.0).
 
-Author: Pavel Strejček, [BrainWeb.cz][1], 2016-2017
+Author: Pavel Strejček, [BrainWeb.cz][1], 2016-2018
 
 
 [1]: http://www.brainweb.cz/
