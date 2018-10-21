@@ -1,3 +1,4 @@
+2018-10-21 v1.0.15 support for PrestaShop version 1.6.1.21-22
 2018-07-14 v1.0.14 support for PrestaShop version 1.6.1.20
 2018-06-17 v1.0.13 support for PrestaShop version 1.6.1.19
 2018-02-13 v1.0.12 support for PrestaShop version 1.6.1.18
