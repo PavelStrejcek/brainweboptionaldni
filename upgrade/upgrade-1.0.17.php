@@ -24,7 +24,7 @@
  *  @license   Licensed under the Open Software License version 3.0  https://opensource.org/licenses/OSL-3.0
  */
 if (!defined('BRAINWEBOPTIONALDNIDIR')) {
-	exit;
+    exit;
 }
 
 require_once BRAINWEBOPTIONALDNIDIR . 'Overriding.php';
@@ -35,16 +35,16 @@ require_once BRAINWEBOPTIONALDNIDIR . 'Helper.php';
  * usefull when you modify your database, or register a new hook ...
  * Don't forget to create one file per version.
  */
-function upgrade_module_1_0_11($module)
+function upgrade_module_1_0_17($module)
 {
-	$generator = new BrainWebOptionalDni_Overriding($module);
+    $generator = new BrainWebOptionalDni_Overriding($module);
 
-	if ($generator->remove()) {
-		if ($generator->generate()) {
-			Configuration::updateValue('BRAINWEBOPTIONALDNI_PS_VERSION', _PS_VERSION_);
-			BrainWebOptionalDni_Helper::removeClassIndex();
-			return true;
-		}
-	}
-	return false;
+    if ($generator->remove()) {
+        if ($generator->generate()) {
+            Configuration::updateValue('BRAINWEBOPTIONALDNI_PS_VERSION', _PS_VERSION_);
+            BrainWebOptionalDni_Helper::removeClassIndex();
+            return true;
+        }
+    }
+    return false;
 }

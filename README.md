@@ -15,7 +15,7 @@ Asterisk next to the field is removed using CSS. It may be necessary to fine-tun
 Requirements
 --------
 
-PrestaShop from 1.6.1.2 to 1.6.1.23
+PrestaShop from 1.6.1.2 to 1.6.1.24
 
 PHP 5.3.3+ (lower versions are not tested)
 
@@ -23,15 +23,9 @@ PHP 5.3.3+ (lower versions are not tested)
 Installation
 --------
 
-1. Clicking the "Download ZIP" button from the root of [Github repository][4] will download the module archive.
+1. Download release ZIP archive with latest version.
 
-2. Unzip archive.
-
-3. Rename folder from "brainweboptionaldni-master" to "brainweboptionaldni".
-
-4. Create ZIP archive again.
-
-5. Use standard installation way as described in [PrestaShop How-To][2].
+2. Use standard installation way as described in [PrestaShop How-To][2].
 
 
 License
@@ -39,7 +33,7 @@ License
 
 This module is free under license [Open Software License v. 3.0][3] (OSL-3.0).
 
-Author: Pavel Strejček, [BrainWeb.cz][1], 2016-2018
+Author: Pavel Strejček, [BrainWeb.cz][1], 2016-2019
 
 
 [1]: http://www.brainweb.cz/
